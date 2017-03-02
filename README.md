@@ -14,7 +14,7 @@
 
 
 
-![](http://upload-images.jianshu.io/upload_images/4037105-d0e479ab776d8652.gif?imageMogr2/auto-orient/strip)
+![](http://upload-images.jianshu.io/upload_images/4037105-4e076352c171ce81.gif?imageMogr2/auto-orient/strip)
   
 
 * [WheelPicker](https://github.com/open-android/WheelPicker)
