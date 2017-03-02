@@ -3,7 +3,7 @@
 
 *  github最大的痛点在于，拿到开源项目不会用，导入各种报错，readme看不懂，推荐给大家一个链接，所有的 项目都亲测没有问题并且全部配置了详细的步骤和配套视频进行解说，欢迎大家star。
   
-* 项目地址：[https://github.com/open-android/Android](https://github.com/open-android/Android)
+* 项目总贴：[https://github.com/open-android/Android](https://github.com/open-android/Android)
 
 * 欢迎关注微信公众号、长期为您推荐优秀博文、开源项目、视频
 
@@ -14,6 +14,16 @@
   
 
   * [WheelPicker](https://github.com/open-android/WheelPicker)
+
+  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
+  
+  ![](http://upload-images.jianshu.io/upload_images/4037105-8912f53fe31032cb.gif?imageMogr2/auto-orient/strip)
+  
+ 
+  
+  
+  
+* [WheelPicker](https://github.com/open-android/WheelPicker)
 
   * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
   
@@ -47,6 +57,37 @@
  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3acfe4df022b&vId=8a2c9bed5a3a4c7e015a3a66a8f40003&videoId=D3C4DA48E22706169C33DC5901307461)
   
 ![](http://upload-images.jianshu.io/upload_images/4037105-d46100e5961fff46.gif?imageMogr2/auto-orient/strip)
+
+
+
+
+ * [RoundedImageView](https://github.com/open-android/RoundedImageView)
+ * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3bc0868907ee&vId=8a2c9bed5a3a4c7e015a3ad0360e022c&videoId=D277116506A044F09C33DC5901307461)
+  
+![](http://upload-images.jianshu.io/upload_images/4037105-45454bbb9e7f4781.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+ * [MaterailDialog](https://github.com/open-android/MaterailDialog)
+ * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3bc0868907ee&vId=8a2c9bed5a3a4c7e015a3bc0c0fe07ef&videoId=77F5A9A54F83BBED9C33DC5901307461)
+  
+![](http://upload-images.jianshu.io/upload_images/4037105-1eaf5da5e861dc3d.gif?imageMogr2/auto-orient/strip)
+
+
+
+ * [SystemBarTint](https://github.com/open-android/SystemBarTint)
+ * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3a69cb6e0072&chapterId=8a2c9bed5a3a4c7e015a3a6a2fce0073&vId=8a2c9bed5a3a4c7e015a3a6a95dd0074&videoId=A85FCED9A07D49719C33DC5901307461)
+  
+![](http://upload-images.jianshu.io/upload_images/4037105-8c0c44ffd32b317b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+ * [DanmakuFlame](https://github.com/open-android/DanmakuFlame)
+ * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ab23bc60148&chapterId=8a2c9bed5a3a4c7e015a3ab256f90149&vId=8a2c9bed5a3a4c7e015a3ab35db2014a&videoId=58807A2677F15C979C33DC5901307461)
+  
+![](http://upload-images.jianshu.io/upload_images/4037105-2f3a130da5031273.gif?imageMogr2/auto-orient/strip)
+  
+
 
 * [hellocharts-android](https://github.com/open-android/hellocharts-android)
   
