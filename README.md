@@ -12,7 +12,7 @@
 
 * [PhotoImageView](https://github.com/open-android/PhotoImageView)  图片手势缩放
 
-
+* ![](http://upload-images.jianshu.io/upload_images/4037105-d0e479ab776d8652.gif?imageMogr2/auto-orient/strip)
 
 
 * ![](http://upload-images.jianshu.io/upload_images/4037105-6cda332626d46f8e.gif?imageMogr2/auto-orient/strip)
