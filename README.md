@@ -10,7 +10,7 @@
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
 
 
-* [WheelPicker](https://github.com/open-android/PhotoImageView)图片手势缩放
+* [PhotoImageView](https://github.com/open-android/PhotoImageView)  图片手势缩放
 
 * ![](http://upload-images.jianshu.io/upload_images/4037105-6cda332626d46f8e.gif?imageMogr2/auto-orient/strip)
   
@@ -22,7 +22,7 @@
   
 * [WheelPicker](https://github.com/open-android/WheelPicker)
 
-  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
+* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
   
   ![](http://upload-images.jianshu.io/upload_images/4037105-8912f53fe31032cb.gif?imageMogr2/auto-orient/strip)
   
@@ -111,6 +111,9 @@
 
 
 * [DynamicGridView](https://github.com/open-android/DynamicGridView)
+
+
+
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-df28bfd516527207.gif?imageMogr2/auto-orient/strip)
 
