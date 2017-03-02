@@ -11,6 +11,9 @@
 
 
 
+* [PhotoImageView](https://github.com/open-android/PhotoImageView)  图片手势缩放
+
+![](http://upload-images.jianshu.io/upload_images/4037105-d0e479ab776d8652.gif?imageMogr2/auto-orient/strip)
 
 
   
@@ -22,9 +25,6 @@
 ![](http://upload-images.jianshu.io/upload_images/4037105-8912f53fe31032cb.gif?imageMogr2/auto-orient/strip)
   
  
-* [PhotoImageView](https://github.com/open-android/PhotoImageView)  图片手势缩放
-
-![](http://upload-images.jianshu.io/upload_images/4037105-d0e479ab776d8652.gif?imageMogr2/auto-orient/strip)
   
   
   
