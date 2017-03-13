@@ -22,7 +22,7 @@
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-0719cc1779858450.gif?imageMogr2/auto-orient/strip)
 
-* [DragFooterView](https://github.com/open-android/DragFooterView)
+
 
 * [DragFooterView](https://github.com/open-android/DragFooterView)  向左拖拽加载更多
 
