@@ -9,6 +9,10 @@
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
 
+* [DragFooterView](https://github.com/open-android/DragFooterView)  向左拖拽加载更多
+
+![](https://github.com/open-android/DragFooterView/DragFooterView/screenshot/demo.gif)
+
 
 * [PhotoImageView](https://github.com/open-android/PhotoImageView)  图片手势缩放
 
