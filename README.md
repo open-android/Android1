@@ -7,26 +7,36 @@
 
 * 欢迎关注微信公众号、长期为您推荐优秀博文、开源项目、视频
 
+
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
+
 
 * [GuideDialog](https://github.com/open-android/GuideDialog)
 
+
 ![](http://upload-images.jianshu.io/upload_images/4037105-ac9e463f13a2d66f.gif?imageMogr2/auto-orient/strip)
 
+
 * [CoolImageView](https://github.com/open-android/CoolImageView)
+
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-26cd0d4419cd5a99.gif?imageMogr2/auto-orient/strip)
 
 
+
 * [ViewPager](https://github.com/open-android/ViewPager)
+
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-0719cc1779858450.gif?imageMogr2/auto-orient/strip)
 
 
 
+
 * [DragFooterView](https://github.com/open-android/DragFooterView)  向左拖拽加载更多
 
+
 ![](http://upload-images.jianshu.io/upload_images/4037105-ed674ad4e9c6d90d.gif?imageMogr2/auto-orient/strip)
+
 
 
 * [PhotoImageView](https://github.com/open-android/PhotoImageView)  图片手势缩放
