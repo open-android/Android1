@@ -7,9 +7,12 @@
 
 * 欢迎关注微信公众号、长期为您推荐优秀博文、开源项目、视频
 
+![](http://upload-images.jianshu.io/upload_images/4037105-09a79c822c569bed.gif?imageMogr2/auto-orient/strip)
+
+* [Loading](https://github.com/open-android/Loading)
+
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
-
 
 * [GuideDialog](https://github.com/open-android/GuideDialog)
 
