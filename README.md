@@ -23,9 +23,7 @@
 ![](http://upload-images.jianshu.io/upload_images/4037105-09a79c822c569bed.gif?imageMogr2/auto-orient/strip)
 
 
-* [DragFooterView](https://github.com/open-android/DragFooterView)
 
-![](http://upload-images.jianshu.io/upload_images/4037105-5b9c54e51a1b710c.gif)
 
 
 * [ViewPager](https://github.com/open-android/ViewPager)
