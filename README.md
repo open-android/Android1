@@ -7,12 +7,15 @@
 
 * 欢迎关注微信公众号、长期为您推荐优秀博文、开源项目、视频
 
+![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
+
+
 ![](http://upload-images.jianshu.io/upload_images/4037105-09a79c822c569bed.gif?imageMogr2/auto-orient/strip)
 
 * [Loading](https://github.com/open-android/Loading)
 
 
-![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
+
 
 * [GuideDialog](https://github.com/open-android/GuideDialog)
 
@@ -53,7 +56,7 @@
 
 * [WheelPicker](https://github.com/open-android/WheelPicker)
 
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
+* [配套视频](https://v.qq.com/x/page/c0382cz9xic.html)
   
 ![](http://upload-images.jianshu.io/upload_images/4037105-8912f53fe31032cb.gif?imageMogr2/auto-orient/strip)
   
