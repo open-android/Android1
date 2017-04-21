@@ -9,10 +9,11 @@
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
 
+* [Loading](https://github.com/open-android/Loading)
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-09a79c822c569bed.gif?imageMogr2/auto-orient/strip)
 
-* [Loading](https://github.com/open-android/Loading)
+
 
 
 
