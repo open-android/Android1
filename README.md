@@ -13,6 +13,8 @@
 
 * [GuideDialog](https://github.com/open-android/GuideDialog)
 
+* [配套视频](https://v.qq.com/x/page/y0383fno6rt.html)
+
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-ac9e463f13a2d66f.gif?imageMogr2/auto-orient/strip)
 
@@ -22,20 +24,22 @@
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-26cd0d4419cd5a99.gif?imageMogr2/auto-orient/strip)
 
-
+* [配套视频](https://v.qq.com/x/page/u0389w4ci88.html)
 
 * [ViewPager](https://github.com/open-android/ViewPager)
 
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-0719cc1779858450.gif?imageMogr2/auto-orient/strip)
 
-
+* [配套视频](https://v.qq.com/x/page/n0389z3o1hy.html)
 
 
 * [DragFooterView](https://github.com/open-android/DragFooterView)  向左拖拽加载更多
 
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-ed674ad4e9c6d90d.gif?imageMogr2/auto-orient/strip)
+
+* [配套视频](https://v.qq.com/x/page/a0383m70fzs.html)
 
 
 
