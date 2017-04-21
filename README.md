@@ -10,12 +10,12 @@
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
 
 
-* [CoolImageView](https://github.com/open-android/CoolImageView)
-
-* [配套视频](https://v.qq.com/x/page/u0389w4ci88.html)
 
 
-[![](https://github.com/open-android/CoolImageView/raw/master/myapplication/gif/CoolImageView.gif)](https://github.com/open-android/CoolImageView/blob/master/myapplication/gif/CoolImageView.gif)
+
+
+
+
 
 
 * [Loading](https://github.com/open-android/Loading)
@@ -26,12 +26,7 @@
 
 
 
-* [ViewPager](https://github.com/open-android/ViewPager)
 
-* [配套视频](https://v.qq.com/x/page/n0389z3o1hy.html)
-
-
-![](http://upload-images.jianshu.io/upload_images/4037105-d0e0f0bdba1fb8d3.gif?imageMogr2/auto-orient/strip)
 
 
 * [GuideDialog](https://github.com/open-android/GuideDialog)
@@ -40,6 +35,8 @@
 
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-ac9e463f13a2d66f.gif?imageMogr2/auto-orient/strip)
+
+* [配套视频](https://v.qq.com/x/page/u0389w4ci88.html)
 
 
 * [CoolImageView](https://github.com/open-android/CoolImageView)
@@ -50,6 +47,8 @@
 * [配套视频](https://v.qq.com/x/page/u0389w4ci88.html)
 
 * [ViewPager](https://github.com/open-android/ViewPager)
+
+* [配套视频](https://v.qq.com/x/page/n0389z3o1hy.html)
 
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-0719cc1779858450.gif?imageMogr2/auto-orient/strip)
