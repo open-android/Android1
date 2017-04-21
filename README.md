@@ -9,13 +9,31 @@
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
 
+
+* [CoolImageView](https://github.com/open-android/CoolImageView)
+
+* [配套视频](https://v.qq.com/x/page/u0389w4ci88.html)
+
+
+[![](https://github.com/open-android/CoolImageView/raw/master/myapplication/gif/CoolImageView.gif)](https://github.com/open-android/CoolImageView/blob/master/myapplication/gif/CoolImageView.gif)
+
+
 * [Loading](https://github.com/open-android/Loading)
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-09a79c822c569bed.gif?imageMogr2/auto-orient/strip)
 
 
+* [DragFooterView](https://github.com/open-android/DragFooterView)
+
+![](http://upload-images.jianshu.io/upload_images/4037105-5b9c54e51a1b710c.gif)
 
 
+* [ViewPager](https://github.com/open-android/ViewPager)
+
+* [配套视频](https://v.qq.com/x/page/n0389z3o1hy.html)
+
+
+![](http://upload-images.jianshu.io/upload_images/4037105-d0e0f0bdba1fb8d3.gif?imageMogr2/auto-orient/strip)
 
 
 * [GuideDialog](https://github.com/open-android/GuideDialog)
@@ -72,20 +90,20 @@
 
 
 * [BottomBarDemo](https://github.com/open-android/BottomBarDemo)
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3ab4a8fc01ba&vId=8a2c9bed5a3a4c7e015a3ad7ae01029d&videoId=AE69E91CC05315089C33DC5901307461)
+* [配套视频](https://v.qq.com/x/page/b0360a76j67.html)
   
   ![](http://upload-images.jianshu.io/upload_images/4037105-4825eae343c2a062.gif?imageMogr2/auto-orient/strip)
 
 
 * [PullToRefresh](https://github.com/open-android/PullToRefresh)
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3a64deae0002&vId=8a2c9bed5a3a4c7e015a3b0d2f19077b&videoId=5738119AAE4197C89C33DC5901307461)
+* [配套视频](https://v.qq.com/x/page/z0370421wul.html)
  
 ![](http://upload-images.jianshu.io/upload_images/4037105-f14baf5a661b9b2d.gif?imageMogr2/auto-orient/strip)
 
 
 
 * [uCrop](https://github.com/open-android/uCrop)
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3acfe4df022b&vId=8a2c9bed5a3a4c7e015a3a66a8f40003&videoId=D3C4DA48E22706169C33DC5901307461)
+* [配套视频](https://v.qq.com/x/page/z0375mj3ykx.html)
   
 ![](http://upload-images.jianshu.io/upload_images/4037105-d46100e5961fff46.gif?imageMogr2/auto-orient/strip)
 
@@ -93,21 +111,22 @@
 
 
 * [RoundedImageView](https://github.com/open-android/RoundedImageView)
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3bc0868907ee&vId=8a2c9bed5a3a4c7e015a3ad0360e022c&videoId=D277116506A044F09C33DC5901307461)
+* [配套视频](https://v.qq.com/x/page/x037368hrxg.html)
   
 ![](http://upload-images.jianshu.io/upload_images/4037105-45454bbb9e7f4781.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
 * [MaterailDialog](https://github.com/open-android/MaterailDialog)
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3bc0868907ee&vId=8a2c9bed5a3a4c7e015a3bc0c0fe07ef&videoId=77F5A9A54F83BBED9C33DC5901307461)
+* [配套视频](https://v.qq.com/x/page/a0374shd1dr.html)
   
 ![](http://upload-images.jianshu.io/upload_images/4037105-1eaf5da5e861dc3d.gif?imageMogr2/auto-orient/strip)
 
 
 
 * [SystemBarTint](https://github.com/open-android/SystemBarTint)
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3a69cb6e0072&chapterId=8a2c9bed5a3a4c7e015a3a6a2fce0073&vId=8a2c9bed5a3a4c7e015a3a6a95dd0074&videoId=A85FCED9A07D49719C33DC5901307461)
+
+* [配套视频](https://v.qq.com/x/page/f03730df2q8.html)
   
 ![](http://upload-images.jianshu.io/upload_images/4037105-8c0c44ffd32b317b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -115,7 +134,7 @@
 
 * [DanmakuFlame](https://github.com/open-android/DanmakuFlame)
 
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ab23bc60148&chapterId=8a2c9bed5a3a4c7e015a3ab256f90149&vId=8a2c9bed5a3a4c7e015a3ab35db2014a&videoId=58807A2677F15C979C33DC5901307461)
+* [配套视频](http://v.qq.com/x/page/h0374koiyxv.html)
   
 ![](http://upload-images.jianshu.io/upload_images/4037105-2f3a130da5031273.gif?imageMogr2/auto-orient/strip)
   
